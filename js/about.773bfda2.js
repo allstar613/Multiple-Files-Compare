@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcompare_string"]=self["webpackChunkcompare_string"]||[]).push([[443],{833:function(n,r,t){t.r(r),t.d(r,{default:function(){return l}});var a=t(3396);const e={class:"about"},s=(0,a._)("h1",null,"This is an about page",-1),u=[s];function c(n,r){return(0,a.wg)(),(0,a.iD)("div",e,u)}var i=t(89);const o={},f=(0,i.Z)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.773bfda2.js.map
